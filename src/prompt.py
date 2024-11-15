@@ -7,7 +7,6 @@ Do not capitalize column headers or table names
 Capitalize SQL keywords
 Use the input context to determine table names
 End the SQL statement with a semicolon
-Use the 'employees' table for all queries relating to departments
 Do not use SQL 'AS' Keyword to rename columns
 
 Here is the query: ${query}
